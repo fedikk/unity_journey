@@ -25,3 +25,14 @@ public class mover : MonoBehaviour
     [SerializeField] float zValue = 0.0f;
 }
 ```
+<img width="1920" height="1029" alt="image" src="https://github.com/user-attachments/assets/b6295c40-569b-4db0-b4e0-fdc1ab99bda2" />
+
+
+# using input.getaxis()
+
+// to be continued 
+
+# Time.deltaTime
+
+# cinemachine 
+
